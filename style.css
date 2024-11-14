@@ -4,3 +4,10 @@ body{
     margin: 0px;
     font-family: "Bona Nova SC", serif;
     margin-bottom: 100px;
+}
+header{
+    border-bottom: 3px solid rgb(171, 245, 190);
+    padding: 20px;
+    color:rgb(171, 245, 190);
+    font-size: 35px;
+}
